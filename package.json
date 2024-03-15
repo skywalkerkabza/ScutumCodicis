@@ -1,0 +1,23 @@
+{
+  "name": "scutumcodicis",
+  "version": "1.0.0",
+  "description": "Scutum_Codicis_PTY_LTD",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skywalkerkabza/ScutumCodicis.git"
+  },
+  "author": "Kabelo Modipa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skywalkerkabza/ScutumCodicis/issues"
+  },
+  "homepage": "https://github.com/skywalkerkabza/ScutumCodicis#readme",
+  "dependencies": {
+    "express": "^4.18.3",
+    "node": "^14.21.3"
+  }
+}
